@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-pillow
-opencv-python-headless
-tesseract
-pytesseract
-python-multipart
-numpy
-pydantic
