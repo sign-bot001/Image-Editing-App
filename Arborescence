@@ -1,0 +1,10 @@
+image-editing-app-starter/
+├─ README.md
+├─ requirements.txt
+├─ .gitignore
+├─ Dockerfile
+└─ app/
+   ├─ main.py
+   ├─ nlp_rules.py
+   └─ fonts/
+      └─ PUT_YOUR_FONTS_HERE.txt
